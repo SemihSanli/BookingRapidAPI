@@ -1,0 +1,86 @@
+﻿@model List<HotelsViewModel>
+@{
+    ViewData["Title"] = "GetAllHotels";
+    Layout = "~/Views/Shared/_UILayout/_UILayout.cshtml";
+}
+
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet" />
+
+<style>
+    .hotel-card {
+        background: #fff;
+        border-radius: 16px;
+        box-shadow: 0 6px 20px rgba(0,0,0,0.1);
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+        overflow: hidden;
+        margin-bottom: 30px;
+    }
+
+        .hotel-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 30px rgba(0,0,0,0.15);
+        }
+
+    .hotel-img img {
+        width: 100%;
+        height: 220px;
+        object-fit: cover;
+    }
+
+    .hotel-info {
+        padding: 15px;
+    }
+
+        .hotel-info h4 {
+            font-size: 20px;
+            margin-bottom: 10px;
+            color: #333;
+        }
+
+        .hotel-info .review {
+            font-size: 14px;
+            color: #555;
+            margin-top: 8px;
+        }
+
+    .review-label {
+        font-weight: 600;
+        color: #000;
+    }
+</style>
+
+<div class="our_room py-5">
+    <div class="container">
+        <div class="row mb-4">
+            <div class="col-md-12 text-center">
+                <h2 class="mb-2">Tüm Oteller</h2>
+                <p class="text-muted">Sizin için listelenen oteller</p>
+            </div>
+        </div>
+
+        <div class="row">
+            @foreach (var item in Model)
+            {
+                <div class="col-md-4 col-sm-6">
+                    <div class="hotel-card">
+                        <div class="hotel-img">
+                            <img src="@item.CoverImageURL" alt="@item.HotelName" />
+                        </div>
+                        <div class="hotel-info">
+                            <h4>@item.HotelName</h4>
+                            <div class="review">
+                                <span class="review-label">Puan:</span> @item.ReviewScore (@item.ReviewScoreWord) <br />
+                                <span class="review-label">Yorum Sayısı:</span> @item.ReviewCount
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+
+        <div class="text-center my-4">
+            <a href="/Flights/Index" class="btn btn-primary btn-lg">✈️ Ulaşım</a>
+        </div>
+
+    </div>
+</div>

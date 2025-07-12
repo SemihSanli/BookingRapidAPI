@@ -1,0 +1,33 @@
+﻿@model List<FlyViewModels>
+<div class="row mt-5">
+    <div class="col-md-12 text-center">
+        <h3 class="mb-3">Uçuş Bilgileri</h3>
+        <p class="text-muted">Seçilen şehirler için uygun uçuşlar</p>
+    </div>
+
+    <div class="col-md-12">
+       
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th>Uçuş Adı</th>
+                        <th>Gidiş Tarih'i</th>
+                    <th>Dönüş Tarih'i</th>
+                        <th>Sınıf</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@item.name</td>
+                            <td>@item.DepartureDate</td>
+                            <td>@item.ReturnDate</td>
+                            <td>@item.CabinClass</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+    
+    </div>
+</div>

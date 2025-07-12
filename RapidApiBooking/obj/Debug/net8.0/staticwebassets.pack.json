@@ -1,0 +1,801 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RapidApiBooking.bundle.scp.css",
+      "PackagePath": "staticwebassets\\RapidApiBooking.slavrok1qv.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\.gitattributes",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\.gitattributes"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\about.html",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\about.html"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\blog.html",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\blog.html"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\contact.html",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\contact.html"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\css\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\css\\default-skin.css",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\css\\default-skin.css"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\css\\icomoon.css",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\css\\icomoon.css"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\css\\jquery.fancybox.min.css",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\css\\jquery.fancybox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\css\\jquery.mCustomScrollbar.min.css",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\css\\jquery.mCustomScrollbar.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\css\\meanmenu.css",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\css\\meanmenu.css"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\css\\normalize.css",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\css\\normalize.css"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\css\\slick.css",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\css\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\css\\style.css",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\fonts\\IcoMoon-Free.ttf",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\fonts\\IcoMoon-Free.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\fonts\\Poppins-Black.ttf",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\fonts\\Poppins-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\fonts\\Poppins-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\fonts\\Poppins-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\fonts\\Poppins-Bold.ttf",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\fonts\\Poppins-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\fonts\\Poppins-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\fonts\\Poppins-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\fonts\\Poppins-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\fonts\\Poppins-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\fonts\\Poppins-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\fonts\\Poppins-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\fonts\\Poppins-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\fonts\\Poppins-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\fonts\\Poppins-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\fonts\\Poppins-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\fonts\\Poppins-Italic.ttf",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\fonts\\Poppins-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\fonts\\Poppins-Light.ttf",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\fonts\\Poppins-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\fonts\\Poppins-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\fonts\\Poppins-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\fonts\\Poppins-Medium.ttf",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\fonts\\Poppins-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\fonts\\Poppins-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\fonts\\Poppins-MediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\fonts\\Poppins-Regular.ttf",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\fonts\\Poppins-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\fonts\\Poppins-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\fonts\\Poppins-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\fonts\\Poppins-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\fonts\\Poppins-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\fonts\\Poppins-Thin.ttf",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\fonts\\Poppins-Thin.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\fonts\\Poppins-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\fonts\\Poppins-ThinItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\gallery.html",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\gallery.html"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\images\\about.png",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\images\\about.png"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\images\\banner1.jpg",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\images\\banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\images\\banner2.jpg",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\images\\banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\images\\banner3.jpg",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\images\\banner3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\images\\blog1.jpg",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\images\\blog1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\images\\blog2.jpg",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\images\\blog2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\images\\blog3.jpg",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\images\\blog3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\images\\blog_bg.jpg",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\images\\blog_bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\images\\date.png",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\images\\date.png"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\images\\gallery1.jpg",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\images\\gallery1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\images\\gallery2.jpg",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\images\\gallery2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\images\\gallery3.jpg",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\images\\gallery3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\images\\gallery4.jpg",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\images\\gallery4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\images\\gallery5.jpg",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\images\\gallery5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\images\\gallery6.jpg",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\images\\gallery6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\images\\gallery7.jpg",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\images\\gallery7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\images\\gallery8.jpg",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\images\\gallery8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\images\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\images\\logo.png",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\images\\menu_icon.png",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\images\\menu_icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\images\\room1.jpg",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\images\\room1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\images\\room2.jpg",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\images\\room2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\images\\room3.jpg",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\images\\room3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\images\\room4.jpg",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\images\\room4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\images\\room5.jpg",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\images\\room5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\images\\room6.jpg",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\images\\room6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\index.html",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\js\\custom.js",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\js\\jquery-3.0.0.min.js",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\js\\jquery-3.0.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\js\\jquery.mCustomScrollbar.concat.min.js",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\js\\jquery.mCustomScrollbar.concat.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\js\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\js\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\js\\modernizer.js",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\js\\modernizer.js"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\js\\plugin.js",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\js\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\js\\revolution\\assets\\coloredbg.png",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\js\\revolution\\assets\\coloredbg.png"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\js\\revolution\\assets\\gridtile.png",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\js\\revolution\\assets\\gridtile.png"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\js\\revolution\\assets\\gridtile_3x3.png",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\js\\revolution\\assets\\gridtile_3x3.png"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\js\\revolution\\assets\\gridtile_3x3_white.png",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\js\\revolution\\assets\\gridtile_3x3_white.png"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\js\\revolution\\assets\\gridtile_white.png",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\js\\revolution\\assets\\gridtile_white.png"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\js\\revolution\\assets\\loader.gif",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\js\\revolution\\assets\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\js\\revolution\\css\\closedhand.html",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\js\\revolution\\css\\closedhand.html"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\js\\revolution\\css\\layers.css",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\js\\revolution\\css\\layers.css"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\js\\revolution\\css\\navigation.css",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\js\\revolution\\css\\navigation.css"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\js\\revolution\\css\\openhand.html",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\js\\revolution\\css\\openhand.html"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\js\\revolution\\css\\settings.css",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\js\\revolution\\css\\settings.css"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\js\\revolution\\fonts\\pe-icon-7-stroke\\css\\pe-icon-7-stroke.css",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\js\\revolution\\fonts\\pe-icon-7-stroke\\css\\pe-icon-7-stroke.css"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.eot",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.svg",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.svg"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.ttf",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.woff",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.woff"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroked41d.eot",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroked41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\js\\revolution\\fonts\\revicons\\revicons90c6.eot",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\js\\revolution\\fonts\\revicons\\revicons90c6.eot"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\js\\revolution\\fonts\\revicons\\revicons90c6.svg",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\js\\revolution\\fonts\\revicons\\revicons90c6.svg"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\js\\revolution\\fonts\\revicons\\revicons90c6.ttf",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\js\\revolution\\fonts\\revicons\\revicons90c6.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\js\\revolution\\fonts\\revicons\\revicons90c6.woff",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\js\\revolution\\fonts\\revicons\\revicons90c6.woff"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\js\\revolution\\js\\extensions\\revolution.extension.actions.min.js",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\js\\revolution\\js\\extensions\\revolution.extension.actions.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\js\\revolution\\js\\extensions\\revolution.extension.carousel.min.js",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\js\\revolution\\js\\extensions\\revolution.extension.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\js\\revolution\\js\\extensions\\revolution.extension.kenburn.min.js",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\js\\revolution\\js\\extensions\\revolution.extension.kenburn.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\js\\revolution\\js\\extensions\\revolution.extension.layeranimation.min.js",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\js\\revolution\\js\\extensions\\revolution.extension.layeranimation.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\js\\revolution\\js\\extensions\\revolution.extension.migration.min.js",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\js\\revolution\\js\\extensions\\revolution.extension.migration.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\js\\revolution\\js\\extensions\\revolution.extension.navigation.min.js",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\js\\revolution\\js\\extensions\\revolution.extension.navigation.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\js\\revolution\\js\\extensions\\revolution.extension.parallax.min.js",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\js\\revolution\\js\\extensions\\revolution.extension.parallax.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\js\\revolution\\js\\extensions\\revolution.extension.slideanims.min.js",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\js\\revolution\\js\\extensions\\revolution.extension.slideanims.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\js\\revolution\\js\\extensions\\revolution.extension.video.min.js",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\js\\revolution\\js\\extensions\\revolution.extension.video.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\js\\revolution\\js\\jquery.themepunch.revolution.min.js",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\js\\revolution\\js\\jquery.themepunch.revolution.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\js\\revolution\\js\\jquery.themepunch.tools.min.js",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\js\\revolution\\js\\jquery.themepunch.tools.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\js\\slider-setting.js",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\js\\slider-setting.js"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\keto-1.0.0\\room.html",
+      "PackagePath": "staticwebassets\\keto-1.0.0\\room.html"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Semih\\source\\repos\\RapidApiBooking\\RapidApiBooking\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.RapidApiBooking.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.RapidApiBooking.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.RapidApiBooking.props",
+      "PackagePath": "build\\RapidApiBooking.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.RapidApiBooking.props",
+      "PackagePath": "buildMultiTargeting\\RapidApiBooking.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.RapidApiBooking.props",
+      "PackagePath": "buildTransitive\\RapidApiBooking.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
