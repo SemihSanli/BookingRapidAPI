@@ -8,7 +8,7 @@ namespace RapidApiBooking.Controllers
 {
     public class ReservationController : Controller
     {
-        private const string APIKEY = "MY_API_KEY";
+        private const string APIKEY = "6693216b71msha5551e4926298a0p124851jsn4012c7ff4b8f";
         private const string APIHOST = "booking-com18.p.rapidapi.com";
         public IActionResult Index()
         {
@@ -25,12 +25,17 @@ namespace RapidApiBooking.Controllers
                 return View("Error", "Şehir Adı Bulunamadı");
             }
             var hotels = await GetAllHotels(locationId, checkinDate, checkoutDate, adults, children);
-          
-           
+
+            ViewBag.CheckinDate = checkinDate;
+            ViewBag.CheckoutDate = checkoutDate;
             return View("GetAllHotels", hotels);
         }
 
-      
+        public async Task<IActionResult> HotelDetail(string hotelId, string checkinDate, string checkoutDate)
+        {
+            var detail = await GetHotelDetail(hotelId, checkinDate, checkoutDate);
+            return View("GetHotelDetail",detail);
+        }
 
         public async Task<string> GetLocationById(string query)
         {
@@ -56,6 +61,7 @@ namespace RapidApiBooking.Controllers
             if (!DateTime.TryParse(checkinDate, out DateTime checkinDateParsed) ||
                 !DateTime.TryParse(checkoutDate, out DateTime checkoutDateParsed))
             {
+
                 throw new ArgumentException("Check-in veya check-out tarihi geçerli bir formatta değil.");
             }
 
@@ -108,9 +114,9 @@ namespace RapidApiBooking.Controllers
             return hotels;
         }
 
+   
 
-
-        private async Task<List<PhotosByHotelViewModel>> GetHotelPhotos(string hotelId)
+        public async Task<List<PhotosByHotelViewModel>> GetHotelPhotos(string hotelId)
         {
             using var client = new HttpClient();
             var request = new HttpRequestMessage
@@ -157,12 +163,86 @@ namespace RapidApiBooking.Controllers
             return photos;
         }
 
-     
-     
-      
 
 
-     
+
+        public async Task<HotelDetailViewModel> GetHotelDetail(string hotelId, string checkinDate, string checkoutDate)
+        {
+            if (!DateTime.TryParse(checkinDate, out var checkin) || !DateTime.TryParse(checkoutDate, out var checkout))
+            {
+                throw new ArgumentException("Geçersiz tarih formatı");
+            }
+
+            string formattedCheckin = checkin.ToString("yyyy-MM-dd");
+            string formattedCheckout = checkout.ToString("yyyy-MM-dd");
+
+            string city = null;
+            string price = null;
+            string coverImageUrl = null;
+
+            try
+            {
+                using var client = new HttpClient();
+                var request = new HttpRequestMessage
+                {
+                    Method = HttpMethod.Get,
+                    RequestUri = new Uri($"https://{APIHOST}/stays/detail?hotelId={hotelId}&checkinDate={formattedCheckin}&checkoutDate={formattedCheckout}&units=metric"),
+                    Headers =
+            {
+                { "x-rapidapi-key", APIKEY },
+                { "x-rapidapi-host", APIHOST },
+            },
+                };
+
+                using var response = await client.SendAsync(request);
+                response.EnsureSuccessStatusCode();
+                var body = await response.Content.ReadAsStringAsync();
+                var data = JsonConvert.DeserializeObject<dynamic>(body);
+
+                city = data?.data?.city;
+
+               
+                var grossAmount = data?.data?.composite_price_breakdown?.gross_amount;
+                if (grossAmount != null)
+                {
+                    price = $"{grossAmount.amount_rounded} {grossAmount.currency}";
+                }
+
+               
+                var block = data?.data?.block;
+                var photos = block?[0]?.photos;
+                if (photos != null && photos.Count > 0)
+                {
+                    coverImageUrl = photos[0]?.url_max300 ?? photos[0]?.url_original;
+                }
+
+                
+                if (string.IsNullOrEmpty(coverImageUrl))
+                {
+                    var fallbackPhotos = await GetHotelPhotos(hotelId);
+                    if (fallbackPhotos != null && fallbackPhotos.Count > 0)
+                    {
+                        coverImageUrl = fallbackPhotos.First().ImageURL;
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"HATA - HotelDetail: {ex.Message}");
+            }
+
+            return new HotelDetailViewModel
+            {
+                City = city ?? "Bilinmiyor",
+                Price = price ?? "Fiyat bilgisi yok",
+                CoverImageURL = coverImageUrl
+            };
+        }
+
+
+
+
+
     }
 
 }

@@ -2,6 +2,9 @@
 @{
     ViewData["Title"] = "GetAllHotels";
     Layout = "~/Views/Shared/_UILayout/_UILayout.cshtml";
+    // Tarihleri ViewBag'den alıyoruz
+    var checkinDate = ViewBag.CheckinDate as string;
+    var checkoutDate = ViewBag.CheckoutDate as string;
 }
 
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet" />
@@ -47,6 +50,13 @@
         font-weight: 600;
         color: #000;
     }
+
+    .hotel-link {
+        text-decoration: none;
+        color: inherit;
+        display: block;
+        height: 100%;
+    }
 </style>
 
 <div class="our_room py-5">
@@ -63,16 +73,18 @@
             {
                 <div class="col-md-4 col-sm-6">
                     <div class="hotel-card">
-                        <div class="hotel-img">
-                            <img src="@item.CoverImageURL" alt="@item.HotelName" />
-                        </div>
-                        <div class="hotel-info">
-                            <h4>@item.HotelName</h4>
-                            <div class="review">
-                                <span class="review-label">Puan:</span> @item.ReviewScore (@item.ReviewScoreWord) <br />
-                                <span class="review-label">Yorum Sayısı:</span> @item.ReviewCount
+                        <a class="hotel-link" href="@Url.Action("HotelDetail", "Reservation", new { hotelId = item.HotelId, checkinDate = checkinDate, checkoutDate = checkoutDate })">
+                            <div class="hotel-img">
+                                <img src="@item.CoverImageURL" alt="@item.HotelName" />
                             </div>
-                        </div>
+                            <div class="hotel-info">
+                                <h4>@item.HotelName</h4>
+                                <div class="review">
+                                    <span class="review-label">Puan:</span> @item.ReviewScore (@item.ReviewScoreWord) <br />
+                                    <span class="review-label">Yorum Sayısı:</span> @item.ReviewCount
+                                </div>
+                            </div>
+                        </a>
                     </div>
                 </div>
             }
@@ -81,6 +93,5 @@
         <div class="text-center my-4">
             <a href="/Flights/Index" class="btn btn-primary btn-lg">✈️ Ulaşım</a>
         </div>
-
     </div>
 </div>
